@@ -2,7 +2,7 @@
 
 AI-powered quiz generation platform that helps students learn from their coursebooks through interactive quizzes, intelligent chat assistance, and curated video recommendations.
 
-**🚀 Live Demo:** [https://beyondchats-ochre.vercel.app/](https://beyondchats-ochre.vercel.app/)
+**🚀 Live Demo:** [https://beyondchats-ochre.vercel.app/](https://beyond-quiz.vercel.app/))
 
 ---
 
